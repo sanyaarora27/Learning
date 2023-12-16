@@ -12,4 +12,9 @@ Day-1 :
  Day-2 :
    i. SQL questions practice on hackerrank.
   ii. Java Collections
+
  
+ Day-3 :
+   i. Know basic math questions from Striver SDE sheet
+  ii. SQL questions practice on hackerrank
+ iii. Linking all the projects made earlier on Github!
