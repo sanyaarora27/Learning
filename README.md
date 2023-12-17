@@ -18,3 +18,9 @@ Day-1 :
    i. Know basic math questions from Striver SDE sheet
   ii. SQL questions practice on hackerrank
  iii. Linking all the projects made earlier on Github!
+
+
+ Day-4
+  i. Learnt about Microsoft Azure.
+ ii. Practice some SQL questions on hackerrank! Ahh some of they really get on my nerves! 😬
+
