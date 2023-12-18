@@ -24,3 +24,7 @@ Day-1 :
   i. Learnt about Microsoft Azure.
  ii. Practice some SQL questions on hackerrank! Ahh some of they really get on my nerves! 😬
 
+
+Day-5
+  i. SQL question on Leetcode (5).
+
