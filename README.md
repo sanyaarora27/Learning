@@ -1,4 +1,4 @@
-# 100DaysOfCode
+# Learning zone
 Challenge is to bring the consistency in my learning and coding habits
 
 
